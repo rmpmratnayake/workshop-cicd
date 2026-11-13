@@ -1,6 +1,6 @@
 :root { color-scheme: dark; font-family: ui-sans-serif, system-ui, sans-serif; color: #f0f3f5; background: #10171c; }
 * { box-sizing: border-box; }
-body { margin: 0; background: radial-gradient(ellipse at 95% 0, #183b38, transparent 55%); min-height: 100vh; }
+body { margin: 0; background: radial-gradient(ellipse at 95% 0, #a5d710, transparent 55%); min-height: 100vh; }
 main { max-width: 960px; margin: auto; padding: 38px 28px; }
 header { display: flex; align-items: center; gap: 12px; font-size: 12px; letter-spacing: .14em; }
 .mark { display: grid; place-items: center; background: #b5f5b2; color: #10171c; width: 34px; height: 34px; border-radius: 8px; font-size: 25px; }
